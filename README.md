@@ -1,4 +1,4 @@
-classification models. The system is designed to analyze fish images uploaded by users and predict the species using both CNN from scratch and Transfer Learning models.
+This Project is designed to analyze fish images uploaded by users and predict the species using both CNN from scratch and Transfer Learning models.
 A Streamlit Web App is developed for real-time predictions, making the solution practical and deployment-ready.
 
 🎯 Objectives
